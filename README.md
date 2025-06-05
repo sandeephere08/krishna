@@ -48,7 +48,7 @@ python -m crushi
 - `/pause` - Pause music
 - `/resume` - Resume music
 - `/stop` - Stop music
-- `/queue` - Show queue
+- `/queue` - Show queue 
 - `/settings` - Bot settings
 
 ## 🔧 Configuration
